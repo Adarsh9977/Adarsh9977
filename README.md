@@ -35,7 +35,7 @@
 <div align="left">
   <p><a href="https://www.linkedin.com/in/adarsh-tiwari-b9a64a19a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a></p>
   <p><a href="https://discord.com/channels/adarshtiwari_2161"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a></p>
-  <p><a href="adarshtiwari797023@gmail.comn"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a></p>
+  <p><a href="[adarshtiwari797023@gmail.comn](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlDWQrZklzrmjzqRGdFlCLBfqRkGnXmXczqgnXtRVFJqvPXSmrShJjSCfzWDmgFqdrgCT)"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a></p>
   
   
 </div>
