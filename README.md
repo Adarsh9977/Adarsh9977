@@ -46,9 +46,6 @@ Key infrastructure and core improvements:
 ## 📫 Connect With Me
 
 - 📧 Email: adarshtiwari797023@gmail.com  
-- 💻 GitHub: https://github.com  
-- 🔗 LinkedIn: https://linkedin.com  
+- 💻 GitHub: https://github.com/Adarsh9977 
+- 🔗 LinkedIn: https://www.linkedin.com/in/adarsh-tiwari-b9a64a19a  
 
----
-
-⭐️ *If you like what I build, feel free to star a repo or reach out!*
