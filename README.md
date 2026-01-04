@@ -41,11 +41,3 @@ Key infrastructure and core improvements:
 - Supported **10,000+ active users**
 - Improved SEO & performance using **SSR & SSG**
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: adarshtiwari797023@gmail.com  
-- 💻 GitHub: https://github.com/Adarsh9977 
-- 🔗 LinkedIn: https://www.linkedin.com/in/adarsh-tiwari-b9a64a19a  
-
