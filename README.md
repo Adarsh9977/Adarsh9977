@@ -10,7 +10,7 @@ I build **scalable, production-grade web applications** and actively contribute 
 
 - 💰 **$10,000+ earned in open-source bounties** (Antiwork)
 - ⭐ **Top Contributor** at **Mail0 / Zero** (YC-backed)
-- 🔥 **0+ merged PRs** across **Cal.com**, **Antiwork**, and **Zero**
+- 🔥 **60+ merged PRs** across **Cal.com**, **Antiwork**, and **Zero**
 - 🧠 Strong focus on **performance, DX, scalability, and clean architecture** 
 
 ---
