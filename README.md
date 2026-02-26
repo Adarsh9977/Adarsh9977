@@ -7,8 +7,6 @@ I build **scalable, production-grade web applications** and actively contribute 
 ---
 
 ## 🏆 Highlights
-
-- 💰 **$10,000+ earned in open-source bounties** (Antiwork)
 - ⭐ **Top Contributor** at **Mail0 / Zero** (YC-backed)
 - 🔥 **60+ merged PRs** across **Cal.com**, **Antiwork**, and **Zero**
 - 🧠 Strong focus on **performance, DX, scalability, and clean architecture** 
@@ -28,13 +26,15 @@ Key infrastructure and core improvements:
 - https://github.com/calcom/cal.com/pull/21928  
 - https://github.com/calcom/cal.com/pull/21884  
 
-### ⚡ Antiwork (Flexile & Helper)
-- https://github.com/antiwork/flexile/pull/1019
-- https://github.com/antiwork/helper/pull/717  
 
 ---
 
 ## 💼 Experience
+
+### Contract Engineer — Antiwork
+- Worked on user database management 
+- Developed multiple services internally
+- Created multiple reusable componwents
 
 ### Full-Stack Engineer — Hefty Innovations
 - Built scalable frontend architecture using **Next.js & React**
